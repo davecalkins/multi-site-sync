@@ -1,0 +1,10 @@
+authURL=http://test.multisitesync.com/authenticate
+updateIntervalSeconds=600
+
+[blount]
+password=sync123
+folderName=weekendmedia-blount
+
+[pellissippi]
+password=sync123
+folderName=weekendmedia-pellissippi
